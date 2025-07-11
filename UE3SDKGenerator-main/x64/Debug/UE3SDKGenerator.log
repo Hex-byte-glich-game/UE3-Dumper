@@ -1,0 +1,32 @@
+﻿  dllmain.cpp
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(90): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(91): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(92): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(93): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(94): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(95): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(96): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(97): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(98): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(99): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(100): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(101): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(102): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(103): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(104): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(105): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(106): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(107): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(108): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(109): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(110): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(111): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(113): warning C4309: 'initializing': truncation of constant value
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(903): warning C4267: '=': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\project download all\ue3sdkgenerator-main\engine\template\gamedefines.hpp(963): warning C4267: '=': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\project download all\ue3sdkgenerator-main\dllmain.cpp(994): warning C4267: 'initializing': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\project download all\ue3sdkgenerator-main\dllmain.cpp(1002): warning C4267: '-=': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\project download all\ue3sdkgenerator-main\dllmain.cpp(1448): warning C4267: 'initializing': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\project download all\ue3sdkgenerator-main\dllmain.cpp(1456): warning C4267: '-=': conversion from 'size_t' to 'int32_t', possible loss of data
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\Project Download all\UE3SDKGenerator-main\x64\Debug\UE3SDKGenerator.exe : fatal error LNK1120: 1 unresolved externals
